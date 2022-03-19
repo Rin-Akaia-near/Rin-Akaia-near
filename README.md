@@ -2,7 +2,7 @@
 
 25 y.o. Software Architect / Full Stack Engineer, [Feature-Sliced Design](https://Feature-Sliced.Design) core team member.
 
-Fox-obsessed polymath, libertarian posthumanist, technological singularity proponent.
+Fox-obsessed polymath, libertarian posthumanist, technological singularity visionary.
 
 ## Interested in
 
