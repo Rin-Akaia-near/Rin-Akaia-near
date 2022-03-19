@@ -1,8 +1,8 @@
 # Rin 狐 😈 🦊 鬼 Akaia
 
-25 y.o. fox-obsessed Software Architect / Full Stack Engineer, Feature-Sliced Design core team member.
+25 y.o. Software Architect / Full Stack Engineer, [Feature-Sliced Design](https://Feature-Sliced.Design) core team member.
 
-Libertarian posthumanist, technological singularly proponent.
+Fox-obsessed polymath, libertarian posthumanist, technological singularity proponent.
 
 ## Interested in
 
