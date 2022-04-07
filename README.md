@@ -9,7 +9,7 @@ Fox-obsessed polymath, libertarian posthumanist, technological singularity visio
 - Science & high-tech: physics ( quantum physics, astrophysics ), philosophy, physical & philosophical cosmology, biology, computer science & information technologies, artifical intelligence
 - Natural languages: English, German, Spanish, Japanese, Finnish, Estonian
 - Video games: EVE Online, Space Engineers, Minecraft, League of Legends
-- Activities: cycling, Ingress
+- Activities: cycling, [Ingress](https://ingress.com)
 
 ## Some of sci-fi favorites
 
