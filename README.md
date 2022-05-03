@@ -6,7 +6,7 @@ Fox-obsessed polymath, libertarian posthumanist, technological singularity visio
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/rin-akaia-672444189/)
+- [LinkedIn](https://www.linkedin.com/in/rin-akaia-672444189/)
 
 ## Interested in
 
