@@ -4,6 +4,10 @@
 
 Fox-obsessed polymath, libertarian posthumanist, technological singularity visionary.
 
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/rin-akaia-672444189/)
+
 ## Interested in
 
 - Science & high-tech: physics ( quantum physics, astrophysics ), philosophy, physical & philosophical cosmology, biology, computer science & information technologies, artifical intelligence
