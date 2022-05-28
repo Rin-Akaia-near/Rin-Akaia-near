@@ -1,5 +1,7 @@
 # Rin 😈 🦊 Akaia
 
+https://self.id/did:3:kjzl6cwe1jw146odqcs0ibeulry0a66k271houwit1bcyshm01yimujyuojosp5
+
 25 y.o. Software Architect / Full Stack Engineer, [Feature-Sliced Design](https://Feature-Sliced.Design) core team member.
 
 Fox-obsessed polymath, libertarian posthumanist, technological singularity visionary.
@@ -27,7 +29,6 @@ Fox-obsessed polymath, libertarian posthumanist, technological singularity visio
 - Ghost in the Shell
 
 ## Some of YouTube favorites
-
 https://youtube.com/playlist?list=PLwSobk4cjETVzTY4qOobpbjojL_FDk95n
 
 ## Professional background
