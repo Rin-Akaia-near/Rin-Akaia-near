@@ -1,8 +1,8 @@
-# Rin 😈 🦊 Akaia
+# Rin 🦊🪐😈 Akaia
 
 https://self.id/did:3:kjzl6cwe1jw146odqcs0ibeulry0a66k271houwit1bcyshm01yimujyuojosp5
 
-25 y.o. Software Architect / Full Stack Engineer, [Feature-Sliced Design](https://Feature-Sliced.Design) core team member.
+Software Architect / Full Stack Engineer, [Feature-Sliced Design](https://Feature-Sliced.Design) core team member.
 
 Fox-obsessed polymath, libertarian posthumanist, technological singularity visionary.
 
