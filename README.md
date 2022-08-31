@@ -1,6 +1,6 @@
 # Rin 🦊🪐😈 Akaia
 
-https://self.id/did:3:kjzl6cwe1jw146odqcs0ibeulry0a66k271houwit1bcyshm01yimujyuojosp5
+https://self.id/did:3:kjzl6cwe1jw147bm53gh2sa5f0azm0e1r4pfvkystrc7lwdtyhus4urew247epv
 
 Software Architect / Full Stack Engineer, [Feature-Sliced Design](https://Feature-Sliced.Design) core team member.
 
