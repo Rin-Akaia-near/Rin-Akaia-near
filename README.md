@@ -35,7 +35,7 @@ https://youtube.com/playlist?list=PLwSobk4cjETVzTY4qOobpbjojL_FDk95n
 
 Web developer experienced in full-stack engineering. Ruby, Ruby on Rails, Erlang/Elixir, Elixir Phoenix, Node.js, GraphQL, HTML5, CSS3, JavaScript ES6+, TypeScript, CSS-in-JS, ramda.js, Vue.js, React.js, next.js, effector, Solid.js, UI component libraries ( mostly, Material-UI ). Also familiar with ReScript and Flutter.
 
-Well familiar with web3 tools and technologies: EVM-based chains, MetaMask, IPFS, Ceramic Network, currently diving into NEAR Protocol ecosystem.
+Working with web3 tools and technologies, such as: NEAR Protocol, IPFS, Ceramic Network, Ethereum.
 
 Deeply involved in Software Architecture and Functional Programming, Computer Science, UI/UX design. Having a basic understanding of Clojure language and its subsets, experienced in working with UNIX-like operating systems and CI/CD.
 
