@@ -1,7 +1,5 @@
 # [Rin 🦊🪐😈 Akaia](https://Rin.🦊🪐😈.Akaia.eth)
 
-https://self.id/did:3:kjzl6cwe1jw147bm53gh2sa5f0azm0e1r4pfvkystrc7lwdtyhus4urew247epv
-
 Software Architect / Full Stack Engineer.
 
 Fox-obsessed polymath, libertarian posthumanist, technological singularity visionary.
