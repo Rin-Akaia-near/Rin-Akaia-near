@@ -27,7 +27,7 @@ Fox-obsessed polymath, libertarian posthumanist, technological singularity visio
 - Ghost in the Shell
 
 ## Some of YouTube favorites
-https://youtube.com/playlist?list=PLwSobk4cjETVzTY4qOobpbjojL_FDk95n
+https://youtube.com/playlist?list=PLljvGIj2NWkkWbakfHp4NAb4vmp8V0kAz
 
 ## Professional background
 
