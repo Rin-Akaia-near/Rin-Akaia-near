@@ -1,4 +1,4 @@
-# [Rin 🦊🪐😈 Akaia](https://Rin.🦊🪐😈.Akaia.eth)
+# [Rin 🦊🪐😈 Akaia](https://app.ens.domains/name/Rin.🦊🪐😈.Akaia.eth/details)
 
 Software Architect / Full Stack Engineer.
 
