@@ -1,8 +1,8 @@
 # [Rin 🦊🪐😈 Akaia](https://app.ens.domains/name/Rin.🦊🪐😈.Akaia.eth/details)
 
-Software Architect / Full Stack Engineer.
+Senior Front End Engineer / Frontend Architect / Middle Full Stack Engineer
 
-Fox-obsessed polymath, posthumanist, technological singularity visionary.
+Fox-obsessed polymath, X-shaped specialist, posthumanist, technological singularity visionary.
 
 ## Links
 
