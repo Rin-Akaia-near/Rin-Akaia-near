@@ -2,7 +2,7 @@
 
 Software Architect / Full Stack Engineer.
 
-Fox-obsessed polymath, libertarian posthumanist, technological singularity visionary.
+Fox-obsessed polymath, posthumanist, technological singularity visionary.
 
 ## Links
 
