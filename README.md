@@ -11,7 +11,7 @@ Fox-obsessed polymath, X-shaped specialist, posthumanist, technological singular
 ## Interested in
 
 - Science & high-tech: physics ( quantum physics, astrophysics ), philosophy, physical & philosophical cosmology, biology, computer science & information technologies, artifical intelligence
-- Natural languages: English, German, Spanish, Japanese, Finnish
+- Natural languages: English ( C1, on a road to C2 ), Spanish ( A1, actively studying ), German ( A1 ), also Japanese and Finnish as sourcec of inspiration
 - Video games: EVE Online, Space Engineers, Minecraft, League of Legends
 - Activities: cycling, [Ingress](https://ingress.com)
 
