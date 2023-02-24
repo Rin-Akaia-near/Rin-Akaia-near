@@ -1,1 +1,1 @@
-# [🦾🦊 [ OPEN FULLY ON-CHAIN PROFILE ] 🪐🚀](https://near.social/#/mob.near/widget/ProfilePage?accountId=rin.akaia.near)
+# [🦾🦊 [ OPEN FULLY ON-CHAIN PROFILE ] 🪐🚀](https://near.social/#/mob.near/widget/ProfilePage?accountId=root.akaia.near)
