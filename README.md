@@ -1,1 +1,1 @@
-# [ Full profile available on NEAR blockchain ](https://near.social/#/mob.near/widget/ProfilePage?accountId=root.akaia.near)
+# [ Full profile available on BOS ](https://near.org/root.akaia.near/widget/profile)
