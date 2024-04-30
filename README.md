@@ -1,1 +1,1 @@
-# [ Full profile available on BOS ](https://near.org/root.akaia.near/widget/profile)
+# [ Full profile available on BOS ](https://near.org/carina.akaia.near/widget/profile)
