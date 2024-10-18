@@ -1,1 +1,1 @@
-# [ Full profile available on BOS ](https://near.org/carina.akaia.near/widget/profile)
+# [ NEAR Social profile ](https://carina.akaia.io)
